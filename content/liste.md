@@ -1,16 +1,15 @@
 [🢀 Önceki Sayfa](https://github.com/levham/github-readme-guide/blob/main/README.md)
 
 # Listeler
-
 ## Sırasız Liste
-- metin
-* metin
-+ metin
+- metin1
+* metin2
++ metin3
 
 ```
-- metin
-* metin
-+ metin
+- metin1
+* metin2
++ metin3
 ``` 
 
 ## Numaralı Liste
@@ -26,7 +25,7 @@
 
 ## İç İçe Liste
 
-### Örnek1
+## Örnek1
 1. metin1
   - altmetin1
   - altmetin2
@@ -43,9 +42,7 @@
   - altmetin2
 ``` 
 
----
-
-### Örnek2
+## Örnek2
 - metin1
   1. altmetin1
   2. altmetin2
@@ -62,16 +59,13 @@
   2. altmetin2
 ``` 
 
----
-
-### Örnek3
+## Örnek3
 - metin1
   - metin2
     - metin3
       - metin4
         - metin5 
 
- 
 ```
 - metin1
   - metin2
