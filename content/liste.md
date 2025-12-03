@@ -85,10 +85,19 @@
 ``` 
 
 ## CheckList2
-- [x] [Link1](https://github.com)
+- [Link1](https://github.com)
 - [ ] [Link2](https://github.com) 
 
 ```
 - [x] [Link1](https://github.com)
 - [ ] [Link2](https://github.com) 
 ``` 
+<ul>
+  <li><input type="checkbox" style="accent-color: red;"> Görev 1</li>
+  <li><input type="checkbox" style="accent-color: green;" checked> Görev 2</li>
+</ul>
+
+<ul>
+  <li><input type="checkbox" > Görev 1</li>
+  <li><input type="checkbox" checked> Görev 2</li>
+</ul>
