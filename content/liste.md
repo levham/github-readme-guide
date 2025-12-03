@@ -73,8 +73,7 @@
       - metin4
         - metin5 
 ``` 
-
-
+ 
 ## CheckList
 - [x] gorev1
 - [ ] gorev2
@@ -92,6 +91,5 @@
 - [x] [Link1](https://github.com)
 - [ ] [Link2](https://github.com) 
 ```   
-
- <input type="checkbox" > Görev 1</li>
+ 
  
