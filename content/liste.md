@@ -3,77 +3,78 @@
 # H1 Başlık 
 
 ## Liste
-- metin1
-* metin2
-+ metin3
+- metin
+* metin
++ metin
 
 ```
-- metin1
-* metin2
-+ metin3
+- metin
+* metin
++ metin
 ``` 
 
 ## Numaralı Liste
-1 metin1
-2 metin2
-3 metin3
+1 metin
+2 metin
+3 metin
 
 ```
-1 metin1
-2 metin2
-3 metin3
+1 metin
+2 metin
+3 metin
 ``` 
 
 ## İç İçe Liste
 
-1 metin1
- -  altmetin1
-2 metin2
- -  altmetin2
+1 metin
+ -  altmetin
+2 metin
+ -  altmetin
 
 ```
-1 metin1
- -  altmetin1
-2 metin2
- -  altmetin2
+1 metin
+ -  altmetin
+2 metin
+ -  altmetin
 ``` 
 
  
--  metin1
-  1  altmetin1
-  2  altmetin2
-- metin2
-  1  altmetin1
-  2  altmetin2
+-  metin
+  1  altmetin
+  2  altmetin
+- metin
+  1  altmetin
+  2  altmetin
 
 ```
--  metin1
-  1  altmetin1
-  2  altmetin2
-- metin2
-  1  altmetin1
-  2  altmetin2
+-  metin
+  1  altmetin
+  2  altmetin
+- metin
+  1  altmetin
+  2  altmetin
 ``` 
 
-
--  metin1
+- metin1
   - metin2
-   -  metin3
-    -  metin4
-      -  metin5
-        -  metin6
-          -  metin7
-            -  metin8
+    - metin3
+      - metin4
+        - metin5
+          - metin6
+            - metin7
+              - metin8
+
  
 ```
--  metin1
+- metin1
   - metin2
-   -  metin3
-    -  metin4
-      -  metin5
-        -  metin6
-          -  metin7
-            -  metin8
+    - metin3
+      - metin4
+        - metin5
+          - metin6
+            - metin7
+              - metin8
+
 ``` 
 
 
