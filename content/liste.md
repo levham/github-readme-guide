@@ -1,8 +1,8 @@
 [🢀 Önceki Sayfa](https://github.com/levham/github-readme-guide/blob/main/README.md)
 
-# H1 Başlık 
+# Listeler
 
-## Liste
+## Sırasız Liste
 - metin
 * metin
 + metin
@@ -26,35 +26,37 @@
 
 ## İç İçe Liste
 
-1 metin
+### Örnek1
+1. metin
   - altmetin
-2 metin
+2. metin
   - altmetin
 
 ```
-1 metin
+1. metin
   - altmetin
-2 metin
+2. metin
   - altmetin
 ``` 
 
- 
+### Örnek2
 - metin
-  1 altmetin
-  2 altmetin
+  1. altmetin
+  2. altmetin
 - metin
-  1 altmetin
-  2 altmetin
+  1. altmetin
+  2. altmetin
 
 ```
 - metin
-  1 altmetin
-  2 altmetin
+  1. altmetin
+  2. altmetin
 - metin
-  1 altmetin
-  2 altmetin
+  1. altmetin
+  2. altmetin
 ``` 
 
+### Örnek3
 - metin1
   - metin2
     - metin3
