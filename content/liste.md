@@ -27,42 +27,39 @@
 ## İç İçe Liste
 
 1 metin
- -  altmetin
+  - altmetin
 2 metin
- -  altmetin
+  - altmetin
 
 ```
 1 metin
- -  altmetin
+  - altmetin
 2 metin
- -  altmetin
+  - altmetin
 ``` 
 
  
--  metin
-  1  altmetin
-  2  altmetin
 - metin
-  1  altmetin
-  2  altmetin
+  1 altmetin
+  2 altmetin
+- metin
+  1 altmetin
+  2 altmetin
 
 ```
--  metin
-  1  altmetin
-  2  altmetin
 - metin
-  1  altmetin
-  2  altmetin
+  1 altmetin
+  2 altmetin
+- metin
+  1 altmetin
+  2 altmetin
 ``` 
 
 - metin1
   - metin2
     - metin3
       - metin4
-        - metin5
-          - metin6
-            - metin7
-              - metin8
+        - metin5 
 
  
 ```
@@ -70,11 +67,7 @@
   - metin2
     - metin3
       - metin4
-        - metin5
-          - metin6
-            - metin7
-              - metin8
-
+        - metin5 
 ``` 
 
 
