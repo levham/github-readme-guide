@@ -25,11 +25,11 @@
 
 ## İç İçe Liste
 
-## -
+### Örnek1
 1. metin1
   - altmetin1
   - altmetin2
-2. metin
+2. metin2
   - altmetin1
   - altmetin2
 
@@ -37,12 +37,12 @@
 1. metin1
   - altmetin1
   - altmetin2
-2. metin
+2. metin2
   - altmetin1
   - altmetin2
 ``` 
 
-## -
+### Örnek2
 - metin1
   1. altmetin1
   2. altmetin2
@@ -59,7 +59,7 @@
   2. altmetin2
 ``` 
 
-## -
+### Örnek3
 - metin1
   - metin2
     - metin3
@@ -82,4 +82,13 @@
 ```
 - [x] gorev1
 - [ ] gorev2
+``` 
+
+## CheckList2
+- [x] [Link1](https://github.com)
+- [ ] [Link2](https://github.com) 
+
+```
+- [x] [Link1](https://github.com)
+- [ ] [Link2](https://github.com) 
 ``` 
