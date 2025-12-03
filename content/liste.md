@@ -43,6 +43,8 @@
   - altmetin2
 ``` 
 
+---
+
 ### Örnek2
 - metin1
   1. altmetin1
@@ -59,6 +61,8 @@
   1. altmetin1
   2. altmetin2
 ``` 
+
+---
 
 ### Örnek3
 - metin1
