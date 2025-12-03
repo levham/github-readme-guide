@@ -14,46 +14,50 @@
 ``` 
 
 ## Numaralı Liste
-1 metin
-2 metin
-3 metin
+1. metin1
+2. metin2
+3. metin3
 
 ```
-1 metin
-2 metin
-3 metin
+1. metin1
+2. metin2
+3. metin3
 ``` 
 
 ## İç İçe Liste
 
 ### Örnek1
-1. metin
-  - altmetin
+1. metin1
+  - altmetin1
+  - altmetin2
 2. metin
-  - altmetin
+  - altmetin1
+  - altmetin2
 
 ```
-1. metin
-  - altmetin
+1. metin1
+  - altmetin1
+  - altmetin2
 2. metin
-  - altmetin
+  - altmetin1
+  - altmetin2
 ``` 
 
 ### Örnek2
-- metin
-  1. altmetin
-  2. altmetin
-- metin
-  1. altmetin
-  2. altmetin
+- metin1
+  1. altmetin1
+  2. altmetin2
+- metin2
+  1. altmetin1
+  2. altmetin2
 
 ```
-- metin
-  1. altmetin
-  2. altmetin
-- metin
-  1. altmetin
-  2. altmetin
+- metin1
+  1. altmetin1
+  2. altmetin2
+- metin2
+  1. altmetin1
+  2. altmetin2
 ``` 
 
 ### Örnek3
