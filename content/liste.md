@@ -75,6 +75,7 @@
 ``` 
  
 ## CheckList
+### Örnek1
 - [x] gorev1
 - [ ] gorev2
 
@@ -83,7 +84,7 @@
 - [ ] gorev2
 ``` 
 
-## CheckList2
+### Örnek2
 - [x] [Link1](https://github.com)
 - [ ] [Link2](https://github.com) 
 
